@@ -7,7 +7,7 @@ The projects here were built to practice problem solving, programming logic, and
 ## Basic-Python
 
 ### Data-Structure
-- [List](./Basic-python/Lists.py)
+- [List](Basic-Python/Lists.py)
 - [Dict](./Basic-python/dict.py)
 - [List-Dict](./Basic-python/list_dict.py)
 - [List-Dict](./Basic-python/list_dict2.py)
