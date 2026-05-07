@@ -4,11 +4,11 @@ This repository contains basic Python and small Python projects created during m
 
 The projects here were built to practice problem solving, programming logic, and understanding Python fundamentals through hands-on experimentation.
 
-## [Basic-Python](Basic-Python)
+## Basic-Python
 
 ### Data-Structure
 - [List](Basic-Python/Lists.py)
-- [Dict](Basic-python/dict.py)
+- [Dict](Basic-Python/dict.py)
 - [List-Dict](Basic-python/list_dict.py)
 - [List-Dict-2](Basic-python/list_dict2.py)
 
