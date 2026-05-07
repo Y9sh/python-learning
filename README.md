@@ -35,6 +35,7 @@ The goal of this repository is learning, experimentation, and gradual improvemen
 - [Return](Basic-Python/return.py)
 - [Flask-1](Basic-Python/flask_basic.py)
 - [Flask-2](Basic-Python/practice_flask.py)
+- [Flask-3](Basic-Python/flask_POST.py)
 - [Recap-learning](Basic-Python/recap_learning.py)
 
 ## Small-Projects/Mini-Simulation
