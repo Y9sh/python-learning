@@ -52,3 +52,4 @@ The goal of this repository is learning, experimentation, and gradual improvemen
 - [Student-Records](Small-project/student_record.py)
 - [Simple-Task-Manager](Small-project/task_manger.py)
 - [Mini-Expanse-Tracker](Small-project/xpanse_tracker.py)
+- [BMI-calculator-with-Flask](Small-project/flask_API.py)
