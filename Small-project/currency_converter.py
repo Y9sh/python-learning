@@ -34,7 +34,7 @@ def result_convert():
 '''@converter.route('/api/bitcoin', methods=["GET"])
 def bitcoin():
     api_url = 'https://api.api-ninjas.com/v1/bitcoin'
-    response= requests.get(api_url,headers={'X-Api-Key':'o4idCtP0VsDDW2ozLQlF/w==nkMIQ0qetlMlpXR6'})
+    response= requests.get(api_url,headers={'X-Api-Key':key_dummy'})
     if response.status_code == requests.codes.ok:
         print(response.text)
     else:
